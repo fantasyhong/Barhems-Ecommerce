@@ -1,6 +1,6 @@
 # Barhems-Ecommerce
 
-This repo contains the custom code for Barhems' E-Commerce website.
+This repo contains custom code for Barhems' E-Commerce website.
 
 
 <strong style="font-size:20px">Change Log</strong><br />
@@ -8,6 +8,8 @@ This repo contains the custom code for Barhems' E-Commerce website.
 5/3/2018:
 <ul><li>Fixed the CSS and JS loading issue</li>
 <li>Switched to <b>ImageMagic</b> from <b>GD2</b> for imaging processing</li>
+<li>Fixed an issue where the console shows "the imagick.dll fails to load" message by moving all CORE_* and IM_MOD_* dll files into the php folder</li>
+<li>Preliminary support for Chinese language (Source code: https://github.com/mageplaza/magento-2-chinese-language-pack/)</li>
 </ul>
 <br>
 
