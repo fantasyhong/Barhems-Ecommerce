@@ -4,6 +4,7 @@ return [
     'Magento_Store' => 1,
     'Magento_Directory' => 1,
     'Magento_Eav' => 1,
+    'Barhems_HelloWorldMVVM' => 1,
     'Magento_Backend' => 1,
     'Magento_Theme' => 1,
     'Magento_Customer' => 1,

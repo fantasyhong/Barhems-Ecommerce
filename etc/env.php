@@ -24,7 +24,7 @@ return [
     ]
   ],
   'x-frame-options' => 'SAMEORIGIN',
-  'MAGE_MODE' => 'default',
+  'MAGE_MODE' => 'developer',
   'session' => [
     'save' => 'files'
   ],
@@ -39,7 +39,7 @@ return [
     'customer_notification' => 1,
     'config_integration' => 1,
     'config_integration_api' => 1,
-    'full_page' => 1,
+    'full_page' => 0,
     'translate' => 1,
     'config_webservice' => 1
   ],
