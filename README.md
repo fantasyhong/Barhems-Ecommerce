@@ -7,12 +7,14 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 5/7/2018:
 <ul><li>Created <b>Hello World</b> module</li>
+</ul>
 <br>
 
 5/4/2018:
 <ul><li>Switched to developer mode</li>
 <li>Updated footer copyright and logo image</li>
 <li>Changed root to pub folder</li>
+</ul>
 <br>
 
 5/3/2018:
