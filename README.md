@@ -5,8 +5,15 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/8/2018:
+<ul>
+<li>Installed a test plugin for adding js and css</li>
+</ul>
+
 5/7/2018:
-<ul><li>Created <b>Hello World</b> module</li>
+<ul><li>Installed <b>Hello World</b> module</li>
+<li>Installed Xdebug, debug works on Chrome browser</li>
+<li>Installed an frontend plugin for testing</li>
 </ul>
 <br>
 
