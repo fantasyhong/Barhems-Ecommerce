@@ -7,6 +7,8 @@ return [
     'Barhems_FrontendTutorial1' => 1,
     'Barhems_HelloWorldMVVM' => 1,
     'Barhems_JavascriptCssExample' => 1,
+    'Barhems_RequireJsTutorial' => 0,
+    'Barhems_StartingWithLess' => 1,
     'Magento_Backend' => 1,
     'Magento_Theme' => 1,
     'Magento_Customer' => 1,

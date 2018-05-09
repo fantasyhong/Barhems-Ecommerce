@@ -5,6 +5,12 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/9/2018:
+<ul>
+<li>Learned RequireJs's integration with Magento</li>
+<li>Learned Less css with Magento (Note: Do <b>NOT</b> enable client-side less compilation for Magento 2.2, this feature is broken and both frontend and backend will crash)</li>
+</ul>
+
 5/8/2018:
 <ul>
 <li>Installed a test plugin for adding js and css</li>
