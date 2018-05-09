@@ -8,18 +8,18 @@ This repo contains custom code for Barhems' E-Commerce website.
 5/9/2018:
 <ul>
 <li>Learned RequireJs's integration with Magento</li>
-<li>Learned Less css with Magento (Note: Do <b>NOT</b> enable client-side less compilation for Magento 2.2, this feature is broken and both frontend and backend will crash)</li>
+<li>Learned Less CSS with Magento (Note: Do <b>NOT</b> enable client-side less compilation for Magento 2.2, this feature is broken and both frontend and backend will crash)</li>
 </ul>
 
 5/8/2018:
 <ul>
-<li>Installed a test plugin for adding js and css</li>
+<li>Installed a test plugin for adding js and CSS</li>
 </ul>
 
 5/7/2018:
 <ul><li>Installed <b>Hello World</b> module</li>
 <li>Installed Xdebug, debug works on Chrome browser</li>
-<li>Installed an frontend plugin for testing</li>
+<li>Installed a frontend plugin for testing</li>
 </ul>
 <br>
 
@@ -39,7 +39,7 @@ This repo contains custom code for Barhems' E-Commerce website.
 <br>
 
 5/2/2018:
-<ul><li>Decided to use <b>Magento 2</b> as the platform for Ecommerce website</li>
+<ul><li>Decided to use <b>Magento 2</b> as the platform for E-commerce website</li>
 </ul>
 <strike> 
 <strong style="font-size:15px">Known Issue(s)</strong><br />
