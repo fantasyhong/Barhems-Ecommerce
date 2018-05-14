@@ -7,7 +7,7 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 5/14/2018:
 <ul>
-<li>Finished Magento 2 OS Part3 & 4</li>
+<li>Finished Magento 2 OS Part 3 & 4</li>
 </ul>
 
 5/11/2018:
