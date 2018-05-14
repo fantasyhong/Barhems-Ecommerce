@@ -148,6 +148,10 @@ return [
     'Dotdigitalgroup_Email' => 1,
     'Magento_WishlistAnalytics' => 1,
     'Magento_WishlistSampleData' => 1,
+    'Pulsestorm_TutorialObjectManager1' => 0,
+    'Pulsestorm_TutorialObjectManager2' => 1,
+    'Pulsestorm_TutorialObjectManagerArguments' => 1,
+    'Pulsestorm_TutorialObjectPreference' => 1,
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
     'Vertex_Tax' => 1

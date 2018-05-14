@@ -5,9 +5,20 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/14/2018:
+<ul>
+<li>Finished Magento 2 OS Part3 & 4</li>
+</ul>
+
+5/11/2018:
+<ul>
+<li>Finished Magento 2 OS Part 1, started Part 2</li>
+</ul>
+
 5/10/2018:
 <ul>
 <li>Learned CRUD Model</li>
+<li>Started Magento 2 Object System Part 1</li>
 </ul>
 
 5/9/2018:
