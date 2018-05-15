@@ -152,6 +152,9 @@ return [
     'Pulsestorm_TutorialObjectManager2' => 1,
     'Pulsestorm_TutorialObjectManagerArguments' => 1,
     'Pulsestorm_TutorialObjectPreference' => 1,
+    'Pulsestorm_TutorialProxy1' => 1,
+    'Pulsestorm_TutorialProxy2' => 1,
+    'Pulsestorm_TutorialVirtualType' => 1,
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
     'Vertex_Tax' => 1
