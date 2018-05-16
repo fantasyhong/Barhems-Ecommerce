@@ -1,0 +1,13 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="Pulsestorm\TutorialInstanceObjectsTestbedCommand" xsi:type="object">Pulsestorm\TutorialInstanceObjects\Command\Testbed</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <type name="Pulsestorm\TutorialInstanceObjects\Model\Example" shared="false">
+        <!-- ... arguments/argument tags here if you want to change injected arguments -->
+    </type>    
+</config>
