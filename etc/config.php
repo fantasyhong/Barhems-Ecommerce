@@ -8,6 +8,7 @@ return [
     'Barhems_FrontendTutorial1' => 1,
     'Barhems_HelloWorldMVVM' => 1,
     'Barhems_JavascriptCssExample' => 1,
+    'Barhems_MenuTutorial' => 1,
     'Barhems_RepositoryTutorial' => 1,
     'Barhems_RequireJsTutorial' => 0,
     'Barhems_StartingWithLess' => 1,
