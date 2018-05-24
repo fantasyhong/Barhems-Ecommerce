@@ -4,5 +4,10 @@
         <route id="hello_mvvm" frontName="hello_mvvm">
             <module name="Barhems_HelloWorldMVVM" />
         </route>
+
+        <route id="catalog">
+            <module name="Barhems_HelloWorldMVVM" after="Magento_Catalog"/>
+        </route>
+
     </router>
 </config>   

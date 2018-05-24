@@ -5,6 +5,18 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/24/2018:
+<ul>
+<li>Created a custom theme</li>
+<li>Updated page logo, footer and home page content</li>
+<li>Replaced the default navigation items and images on the home page</li>
+</ul>
+
+5/21/2018:
+<ul>
+<li>Finished Magento 2 For PHP MVC Developers Tutorial</li>
+</ul>
+
 5/18/2018:
 <ul>
 <li>Finished Magento 2 Admin Menu items</li>
