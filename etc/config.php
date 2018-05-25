@@ -12,7 +12,7 @@ return [
     'Barhems_MenuTutorial' => 0,
     'Barhems_RepositoryTutorial' => 1,
     'Barhems_RequireJsTutorial' => 0,
-    'Barhems_StartingWithLess' => 1,
+    'Barhems_StartingWithLess' => 0,
     'Barhems_ToDoCrud' => 1,
     'Magento_Backend' => 1,
     'Magento_Theme' => 1,

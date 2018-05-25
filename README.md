@@ -5,6 +5,12 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+5/25/2018:
+<ul>
+<li>Fixed the problem where the cms block shows on every page instead of home page only</li>
+<li>Added more products on the front end</li>
+</ul>
+
 5/24/2018:
 <ul>
 <li>Created a custom theme</li>
