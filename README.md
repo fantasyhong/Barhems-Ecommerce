@@ -22,6 +22,7 @@ This repo contains custom code for Barhems' E-Commerce website.
 <li>Fixed the problem where the cms block shows on every page instead of home page only</li>
 <li>Added more products on the front end</li>
 </ul>
+<br>
 
 5/24/2018:
 <ul>
@@ -29,58 +30,69 @@ This repo contains custom code for Barhems' E-Commerce website.
 <li>Updated page logo, footer and home page content</li>
 <li>Replaced the default navigation items and images on the home page</li>
 </ul>
+<br>
 
 5/21/2018:
 <ul>
 <li>Finished Magento 2 For PHP MVC Developers Tutorial</li>
 </ul>
+<br>
 
 5/18/2018:
 <ul>
 <li>Finished Magento 2 Admin Menu items</li>
 </ul>
+<br>
 
 5/17/2018:
 <ul>
 <li>Finished Magento 2 Repositories & ACL Tutorial</li>
 </ul>
+<br>
 
 5/16/2018:
 <ul>
 <li>Finished Magento 2 OS Part 7 & 8</li>
 </ul>
+<br>
 
 5/15/2018:
 <ul>
 <li>Finished Magento 2 OS Part 5 & 6</li>
 </ul>
+<br>
 
 5/14/2018:
 <ul>
 <li>Finished Magento 2 OS Part 3 & 4</li>
 </ul>
+<br>
 
 5/11/2018:
 <ul>
 <li>Finished Magento 2 OS Part 1, started Part 2</li>
 </ul>
+<br>
 
 5/10/2018:
 <ul>
 <li>Learned CRUD Model</li>
 <li>Started Magento 2 Object System Part 1</li>
 </ul>
+<br>
 
 5/9/2018:
 <ul>
 <li>Learned RequireJs's integration with Magento</li>
 <li>Learned Less CSS with Magento (Note: Do <b>NOT</b> enable client-side less compilation for Magento 2.2, this feature is broken and both frontend and backend will crash)</li>
 </ul>
+<br>
 
 5/8/2018:
 <ul>
 <li>Installed a test plugin for adding js and CSS</li>
 </ul>
+<br>
 
 5/7/2018:
 <ul><li>Installed <b>Hello World</b> module</li>
