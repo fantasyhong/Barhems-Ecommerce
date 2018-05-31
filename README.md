@@ -5,6 +5,18 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+
+5/31/2018:
+<ul>
+<li>Added <b>Store Locator</b> plugin using composer command</li>
+<li>Fixed the Ajax problem after default store locator url is changed<li>
+</ul>
+<strong style="font-size:15px">Known Issue(s)</strong><br />
+<ul>
+<li>Ajax fix is temporary and will be overwritten once the plugin is updated; manually changed version number to prevent update for now</li>
+</ul>
+<br />
+
 5/25/2018:
 <ul>
 <li>Fixed the problem where the cms block shows on every page instead of home page only</li>
