@@ -5,6 +5,16 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+6/14/2018:
+<ul>
+<li>Added <b>Webrotate 360</b> plugin to view 360° product images</li>
+<li>Moved 360° image to the prodct details section</li>
+</ul>
+
+6/4/2018-6/13/2018:
+Worked on other projects
+<br />
+
 6/1/2018:
 <ul>
 <li>Moved the location of the ajax fix so that it won't be overwritten in the future</li>
