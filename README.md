@@ -5,6 +5,12 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+6/18/2018:
+<ul>
+<li>Re-enabled Store Locator's scroll zoom and made it mobile friendly</li>
+</ul>
+<br />
+
 6/15/2018:
 <ul>
 <li>UI updates for 360° viewer plugin</li>

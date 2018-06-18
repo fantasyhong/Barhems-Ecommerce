@@ -46,7 +46,9 @@ define([
 				}
 	            
 	            // get the stores from admin stockists/ajax/stores
-	            // temporary fix for ajax 404 error when front-end url is custom
+	      		// Change Log
+	            // 1. Temporary fix for ajax 404 error when front-end url is custom
+	            // 2. Re-enabled Google Map's scroll zoom and made it mobile friendly
 	            // edited by Tony Hong
 	            function getStores() {
 	                var url = window.location.protocol+"//"+window.location.hostname+"/stockists";
@@ -66,8 +68,8 @@ define([
 	                var loadedMapStyles = mapstyles[config.map_styles];
 	                var mapOptions = {
 	                    zoom: config.zoom, 
-	                    scrollwheel: false,
 	                    center: {lat: config.latitude, lng: config.longitude},
+	                    gestureHandling: 'cooperative',
 	                    styles: loadedMapStyles
 	                };
 	                

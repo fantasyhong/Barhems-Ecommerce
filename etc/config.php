@@ -15,7 +15,6 @@ return [
     'Barhems_StartingWithLess' => 0,
     'Barhems_ToDoCrud' => 1,
     'Magento_Backend' => 1,
-    'Ideo_StoreLocator' => 0,
     'Magento_Theme' => 1,
     'Magento_Customer' => 1,
     'Magento_AdminNotification' => 1,
