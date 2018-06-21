@@ -5,6 +5,14 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
+6/21/2018:
+<ul>
+<li>Added <b>Check Order</b> plugin to let customers view order status without log in</li>
+<li>CSS updates to let check order plugin only shows on home page</li>
+<li>HTML update to fix the duplicate ID issue introduced by this plugin</li>
+</ul>
+<br />
+
 6/18/2018:
 <ul>
 <li>Re-enabled Store Locator's scroll zoom and made it mobile friendly</li>

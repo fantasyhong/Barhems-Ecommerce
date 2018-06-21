@@ -5,6 +5,7 @@ return [
     'Magento_Directory' => 1,
     'Magento_Eav' => 1,
     'Barhems_AclExample' => 1,
+    'Barhems_CheckOrderCustom' => 0,
     'Barhems_FrontendTutorial1' => 1,
     'Barhems_HelloAdminBackend' => 1,
     'Barhems_HelloWorldMVVM' => 1,
@@ -167,6 +168,7 @@ return [
     'Pulsestorm_TutorialVirtualType' => 1,
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
+    'Unity_CheckOrder' => 1,
     'Vertex_Tax' => 1,
     'WebRotate360_ProductViewerAdHoc' => 1
   ]

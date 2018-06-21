@@ -1,0 +1,69 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: ksiamro
+ * Date: 13.12.2016
+ * Time: 09:10
+ */
+?>
+<div class="block checkorder-form" data-mage-init='{
+    "Unity_CheckOrder/js/checkorder": {
+            "translations": [
+                { "key": "checkorder_show", "value": "<?php /* @escapeNotVerified */ echo __('Show') ?>" },
+                { "key": "checkorder_error", "value": "<?php /* @escapeNotVerified */ echo __('An error occurred') ?>" },
+                { "key": "checkorder_error_not_found", "value": "<?php /* @escapeNotVerified */ echo __('Order not found') ?>" }
+            ]
+        }
+    }'>
+    <div class="block-title show-hide">
+        <strong><?php /* @escapeNotVerified */ echo __('Check order status') ?></strong>
+    </div>
+    <div class="block-content">
+        <form class="form form-checkorder"
+              action="<?php /* @escapeNotVerified */ echo $block->getPostActionUrl() ?>"
+              method="post"
+              id="checkorder-form"
+              data-mage-init='{"validation":{}}'>
+            <fieldset class="fieldset checkorder" data-hasrequired="<?php /* @escapeNotVerified */ echo __('* Required Fields') ?>">
+                <div class="field order_id required">
+                    <label class="label" for="order_id"><span><?php /* @escapeNotVerified */ echo __('Order Id') ?></span></label>
+                    <div class="control">
+                        <input name="order_id" value="" id="order_id" type="text" class="input-text" title="<?php /* @escapeNotVerified */ echo __('Order Id') ?>" data-validate="{required:true}">
+                    </div>
+                </div>
+                <div class="field email required">
+                    <label class="label" for="email"><span><?php /* @escapeNotVerified */ echo __('Email') ?></span></label>
+                    <div class="control">
+                        <input name="email" value="" id="email" type="email" class="input-text" title="<?php /* @escapeNotVerified */ echo __('Email') ?>" data-validate="{required:true, 'validate-email':true}">
+                    </div>
+                </div>
+                <div class="actions-toolbar">
+                    <div class="primary"><button type="submit" class="action checkorder primary" name="send" id="send2"><span><?php /* @escapeNotVerified */ echo __('Check Your Order') ?></span></button></div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+    <div class="checkorder-tab show-hide"><img src="<?php echo $block->getViewFileUrl('Unity_CheckOrder::images/ico_checkorder.svg'); ?>" /></div>
+    <div class="checkorder-results">
+        <div class="row checkorder-view-model" data-bind="scope: 'checkorder-view-model'">
+            <!-- ko template: getTemplate() --><!-- /ko -->
+            <script type="text/x-magento-init">
+            {
+                ".checkorder-view-model": {
+                    "Magento_Ui/js/core/app": {
+                       "components": {
+                            "checkorder-view-model": {
+                                "component": "Unity_CheckOrder/js/viewmodels/checkorder-view-model",
+                                "template" : "Unity_CheckOrder/results"
+                            }
+                        }
+                    }
+                }
+            }
+            </script>            
+        </div>
+        <div class="row">
+            <button class="action back primary"><span><?php /* @escapeNotVerified */ echo __('Back') ?></span></button>
+        </div>
+    </div>
+</div>
