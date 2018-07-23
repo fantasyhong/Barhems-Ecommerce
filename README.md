@@ -5,7 +5,7 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 <strong style="font-size:20px">Change Log</strong><br />
 
-6/21/2018:
+7/23/2018:
 <ul>
 <li>Created a custom module which auto approves reviews and displays the correct message</li>
 </ul>
