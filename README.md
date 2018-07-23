@@ -7,6 +7,12 @@ This repo contains custom code for Barhems' E-Commerce website.
 
 6/21/2018:
 <ul>
+<li>Created a custom module which auto approves reviews and displays the correct message</li>
+</ul>
+<br />
+
+6/21/2018:
+<ul>
 <li>Added <b>Check Order</b> plugin to let customers view order status without log in</li>
 <li>CSS updates to let check order plugin only shows on home page</li>
 <li>HTML update to fix the duplicate ID issue introduced by this plugin</li>
