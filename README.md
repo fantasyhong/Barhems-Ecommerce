@@ -2,6 +2,7 @@
 
 This repo contains custom code for Barhems' E-Commerce website.
 
+![Demo](https://github.com/fantasyhong/Barhems-Ecommerce/blob/master/gifs/demo.gif)
 
 <strong style="font-size:20px">Change Log</strong><br />
 
