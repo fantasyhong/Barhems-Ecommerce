@@ -2,7 +2,12 @@
 
 This repo contains custom code for Barhems' E-Commerce website.
 
+Order Status/Store Locator/Review Auto Approve Demo
 ![Demo](https://github.com/fantasyhong/Barhems-Ecommerce/blob/master/gifs/demo.gif)
+
+
+360 Viewer Demo
+![360 Viewer Demo](https://github.com/fantasyhong/Barhems-Ecommerce/blob/master/gifs/demo-360-view.gif)
 
 <strong style="font-size:20px">Change Log</strong><br />
 
